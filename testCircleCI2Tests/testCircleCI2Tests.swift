@@ -27,7 +27,7 @@ final class testCircleCI2Tests: XCTestCase {
         // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
         // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
         
-        XCTAssertEqual(4, 4)
+        XCTAssertEqual(4, 7)
     }
 
     func testPerformanceExample() throws {
